@@ -2,4 +2,3 @@ requests
 streamlit
 requests-toolbelt
 pandas
-zipfile
