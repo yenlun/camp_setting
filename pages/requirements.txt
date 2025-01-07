@@ -1,5 +1,5 @@
 requests
 streamlit
-requests-toolbelt
+requests-toolbelt==1.0.0
 pandas
 zipfile
