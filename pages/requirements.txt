@@ -1,5 +1,0 @@
-requests
-streamlit
-requests-toolbelt==1.0.0
-pandas
-zipfile
